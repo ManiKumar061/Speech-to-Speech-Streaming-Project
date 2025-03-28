@@ -1,1 +1,1 @@
-Infosys Internship: Speech-to-Speech Streaming Project 
+Infosys Internship: Speech-to-Speech Streaming Project
